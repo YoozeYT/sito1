@@ -1,0 +1,6 @@
+{
+  "name": "Nebula Bot",
+  "description": "Sito di presentazione di Nebula, il bot Discord veloce e sicuro con sistemi di ticket, sicurezza avanzata e configurazione personalizzata per ogni server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
